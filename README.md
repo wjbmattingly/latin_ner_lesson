@@ -1,3 +1,5 @@
+This repo is meant to function alongside my Classical Latin NER Youtube Video. It is designed for educational purposes.
+
 OUR GOAL:
 
 Get a spaCy ML model to recognize Latin PERSON, LOCATION, GROUP
@@ -28,3 +30,5 @@ https://en.wikipedia.org/wiki/Praenomen
 https://en.wikipedia.org/wiki/List_of_Roman_nomina
 
 https://en.wikipedia.org/wiki/List_of_Roman_cognomina
+
+https://www.thelatinlibrary.com/
