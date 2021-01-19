@@ -1,5 +1,7 @@
 This repo is meant to function alongside my Classical Latin NER Youtube Video. It is designed for educational purposes.
 
+Video: https://youtu.be/zywMBYmV6Ew
+
 OUR GOAL:
 
 Get a spaCy ML model to recognize Latin PERSON, LOCATION, GROUP
